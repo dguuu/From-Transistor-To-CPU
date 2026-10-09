@@ -1,1 +1,1 @@
-10/10 I make a 1bit FA in KICAD and make a PCB Layout with perfboard. The perfboard size is 9x7cm. In other words, its 26x31 spot. If I got all of the materials I can make it. 
+10/10 I make a 1bit FA in KiCad and make a PCB Layouted with perfboard. The perfboard size is 9x7cm. In other words, it's 26x31 hole. If I got all of the materials I can make it. By the way I chose all 2n7000 based on NMOS logic. Because its easy to get, lower power consumption than BJT logic, not as complex as CMOS logic and also cheap HAHA.
